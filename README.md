@@ -6,4 +6,4 @@ I'm a Full Stack Developer
 - 🔭 I’m currently working on my side projects.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmed-abukar-b712581b4/) [Gmail](mailto:ahmedabuukar34@gmail.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/Ahmed_Abukar_).

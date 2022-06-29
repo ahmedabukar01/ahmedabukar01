@@ -3,8 +3,8 @@
 
 I'm a Full Stack Developer 
 
-- 🔭 I’m currently working on my side projects.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
+- 🔭 I’m currently working as Software Engineer
+- 📚 I’m currently learning TypeScript and React Native
+- 👯 I’m looking for Remote work.
 - 📫 How to reach me: [Twitter](https://twitter.com/Ahmed_Abukar_).
 

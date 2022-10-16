@@ -4,6 +4,6 @@
 I'm a Full Stack Developer 
 
 - 🔭 I’m currently working as Software Engineer
-- 📚 I’m currently learning TypeScript and React Native
+- 📚 I’m currently learning TypeScript and Flatter
 - 📫 How to reach me: [Twitter](https://twitter.com/Ahmed_Abukar_).
 

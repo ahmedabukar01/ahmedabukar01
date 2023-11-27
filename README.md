@@ -4,6 +4,6 @@
 I'm a Full Stack Software Developer.
 
 - 🔭 I’m currently working as Software Engineer
-- 📚 I’m currently learning linux and flutter
+- 📚 I’m currently learning Something Valuable :)
 - 📫 How to reach me: [Twitter](https://twitter.com/Ahmed_Abukar_).
 

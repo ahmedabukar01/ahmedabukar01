@@ -3,7 +3,7 @@
 
 I'm a Full Stack Software Developer.
 
-- 🔭 I’m currently working as Software Engineer
+- 🔭 I’m currently working as Software Engineer & System Analyst
 - 📚 I’m currently learning Something Valuable :)
 - 📫 How to reach me: [Twitter](https://twitter.com/Ahmed_Abukar_).
 
